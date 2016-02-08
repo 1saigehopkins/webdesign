@@ -1,0 +1,73 @@
+body {
+  margin:0;
+}
+
+* {
+    background-color:rgba(255,0,0,.15);
+}
+
+img{
+    width: 33%;
+    float: none;
+    border: 2px solid #92b818;
+}
+
+p {
+  font-size: 25px;
+  text-align: center;
+  font-family: monospace;
+  color: #89451c;
+}
+
+a {
+ text-decoration: none;
+ background-color: rgba(0, 0, 0, 0.01);
+
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  padding:10px;
+  margin:10px;
+}
+
+li {
+  border:none;
+  width:100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+div {
+  background-image: url(http://gardenpool.org/wp-content/uploads/2010/07/Duckweed-AQ-IALG.jpg);
+  height:285px;
+  background-position: center;
+  padding:10px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.title {
+  height: 100px;
+  font-style: italic;
+  font-family: monospace;
+  margin-left: 25px;
+  font-size: 50px;
+  color: #9d4828;
+  text-shadow: 3px 2px #a8aeac;
+}
+
+#end {
+  font-style: italic;
+  font-family: monospace;
+  margin-left: 25px;
+  font-size: 50px;
+  color: #9d4828;
+  text-shadow: 3px 2px #a8aeac;
+}
+
+section {
+  background-color:rgba(255,0,0,.01);
+  float: right;
+  margin-top: 175px;
+}
